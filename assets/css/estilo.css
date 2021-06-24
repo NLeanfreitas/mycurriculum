@@ -1,0 +1,21 @@
+body{
+    transition: 1s all ease-in-out;
+}
+.c{
+    text-align: center;
+    height: 21em;
+}
+.n{
+    padding: 15px;
+}
+.s{
+height: 20px;
+}
+.Dark-mode{
+background-color: black;
+color: white;
+}
+.Saas{
+    background-color: red;
+    transition: 1s all ease-in-out;
+}
