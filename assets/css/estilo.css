@@ -13,9 +13,8 @@ height: 20px;
 }
 .Dark-mode{
 background-color: black;
-color: white;
+color: green;
 }
 .Saas{
-    background-color: red;
     transition: 1s all ease-in-out;
 }
